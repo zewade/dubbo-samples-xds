@@ -1,0 +1,3 @@
+# Project exclude paths
+/dubbo-samples-xds-consumer/target/
+/dubbo-samples-xds-provider/target/
